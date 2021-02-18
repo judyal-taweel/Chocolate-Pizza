@@ -1,0 +1,149 @@
+*{
+    box-sizing: border-box;
+   
+}
+body { 
+width:80%;
+text-align: center;
+
+}
+div h1{
+    font-family: 'Pacifico', cursive;
+    font-style: italic;
+    font-size: xx-large;
+    text-align: left;
+
+}
+#header{
+    display: inline-block;
+    vertical-align: middle;
+    height:60px;
+    margin: 0px;
+    position: relative;
+    right:145px;
+    padding:0px;
+    margin-bottom:20px;
+}
+header ul li {   
+
+    display: inline-block;
+   vertical-align: middle;
+   
+  
+}
+header ul {
+    float: right; 
+    margin-right:30px;
+   margin-top:10px;
+   position: relative;
+   right:100px;
+}
+.liOne{
+    margin-left:15px ;
+    margin-right:0px;
+}
+#logo{
+    margin:0px;
+    height:60px;
+    position: relative;
+    right:155px;
+    margin-top:10px;
+}
+main h1{
+    font-size:xx-large;
+    font-family: 'Anton', sans-serif;
+    text-align: left;
+    margin-left:155px;
+}
+nav ul li{
+    display: inline-block;
+}
+#print{
+    margin-left:560px;
+}
+.pOne{
+    color:rgb(161, 158, 158)
+}
+.pTwo{
+    color: rgb(82, 81, 81);
+    text-align: left;
+    margin-left:155px;
+   font-size:large;
+   margin-bottom: 20px;
+   width:75%;
+}
+#mainPic{
+    margin-top:20px;
+    margin-bottom :20px;
+
+}
+#form div form{
+    width:75%;
+}
+#form div form ul{
+ display:inline-block;
+}
+#form
+{
+background-image: url("https://github.com/LTUC/amman-201d14/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");
+ width :75%;
+ height:270px;
+ margin-left: 155px;
+ font-size:x-large;
+ font-family: monospace;
+ font-weight: bold;
+ color:rgb(109, 103, 103);
+}
+#form div form ul li {
+    text-align: left;
+}
+#formTwo ul{
+    margin-bottom: 200px;
+    margin-left:50%;
+}
+#form div form ul{
+    position: relative;
+    margin-right:13px;
+}
+button{
+    background-color: rgb(145, 64, 64);
+    color:white;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    font-size:medium;
+    float: right;
+    margin-bottom:30px;
+}
+button:hover{
+    background-color:white ;
+    color:rgb(145, 64, 64);
+
+}
+
+footer hr img{
+    text-align: center;
+}
+
+#v div {
+    display: inline-block;
+
+}
+#v img{
+    position:relative;
+    right:400px;
+    margin-top: 70px;
+
+}
+#v h2 {
+    font-size: larger;
+    text-align: left;
+    position: relative;
+    left:30px;
+}
+
+
+
+
+
